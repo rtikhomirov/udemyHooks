@@ -1,8 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c74db35-5d88-41f7-8a5e-d11ba69ad57a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accordionData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Convert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TestBudget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TestCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Translate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/DropdownData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/TranslateData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eZnXuEe6RZsP8li9YYce0HOqxv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspaceJS\React\udemyhooks\src\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c74db35-5d88-41f7-8a5e-d11ba69ad57a" name="Default Changelist" comment="" />
+      <created>1594538025380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594538025380</updated>
+      <workItem from="1594538027163" duration="17022000" />
+      <workItem from="1594645989803" duration="6568000" />
+      <workItem from="1594723221225" duration="615000" />
+      <workItem from="1594799088362" duration="14000" />
+      <workItem from="1594907419729" duration="825000" />
+      <workItem from="1595006636410" duration="919000" />
+      <workItem from="1595007758200" duration="782000" />
+      <workItem from="1595084420410" duration="5900000" />
+      <workItem from="1595098670350" duration="43000" />
+      <workItem from="1595844017514" duration="793000" />
+      <workItem from="1596794133500" duration="2006000" />
+      <workItem from="1596816599732" duration="22000" />
+      <workItem from="1597152317290" duration="1270000" />
+      <workItem from="1598014883510" duration="1413000" />
+      <workItem from="1598365354817" duration="682000" />
+      <workItem from="1598460038643" duration="609000" />
+      <workItem from="1598543440424" duration="2494000" />
+      <workItem from="1598957758521" duration="5608000" />
+      <workItem from="1599557499118" duration="1587000" />
+      <workItem from="1599633536672" duration="616000" />
+      <workItem from="1600929910954" duration="152000" />
+      <workItem from="1600932733016" duration="135000" />
+      <workItem from="1601042491531" duration="9806000" />
+      <workItem from="1601375259955" duration="620000" />
+      <workItem from="1601484630046" duration="5136000" />
+      <workItem from="1601549440556" duration="12696000" />
+      <workItem from="1601574126978" duration="2699000" />
+      <workItem from="1601716518042" duration="910000" />
+      <workItem from="1601891127615" duration="3697000" />
+      <workItem from="1601966699371" duration="753000" />
+      <workItem from="1602058945323" duration="3062000" />
+      <workItem from="1602062032751" duration="3694000" />
+      <workItem from="1602173080809" duration="5087000" />
+      <workItem from="1602224469231" duration="1643000" />
+      <workItem from="1602318617674" duration="993000" />
+      <workItem from="1602327105630" duration="5674000" />
+      <workItem from="1602342576194" duration="599000" />
+      <workItem from="1602350182317" duration="2120000" />
+      <workItem from="1602413453241" duration="994000" />
+      <workItem from="1602770850228" duration="2476000" />
+      <workItem from="1602834942040" duration="2010000" />
+      <workItem from="1602870563206" duration="2091000" />
+      <workItem from="1602940225476" duration="1052000" />
+      <workItem from="1603190706316" duration="604000" />
+      <workItem from="1603441239788" duration="2223000" />
+      <workItem from="1603712103525" duration="3387000" />
+      <workItem from="1603729948105" duration="610000" />
+      <workItem from="1603789528843" duration="1036000" />
+      <workItem from="1603868938110" duration="1313000" />
+      <workItem from="1603958181735" duration="661000" />
+      <workItem from="1604403750211" duration="611000" />
+      <workItem from="1604419105071" duration="599000" />
+      <workItem from="1604500754380" duration="402000" />
+      <workItem from="1604569159319" duration="173000" />
+      <workItem from="1604580681949" duration="136000" />
+      <workItem from="1605617323729" duration="725000" />
+      <workItem from="1605881711615" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
